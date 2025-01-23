@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-I am Christan Ray R Sanchez a 2nd Year in Computer Engineering Student currently studying in T.I.P"Chocnut" 
+I am Christan Ray R Sanchez a 2nd Year in Computer Engineering Student currently studying in T.I.P
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqNzNvZXd5d2Rha2loNHRqdGRndWt0YzZreHZvd2E5NWluZXUyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3cwLpdCalQrML78gbe/giphy.gif" width="30">
 
 - :telescope: I’m Taking Data Science for my elective.
@@ -33,10 +33,7 @@ I am Christan Ray R Sanchez a 2nd Year in Computer Engineering Student currently
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  These are the langauges that I know
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  
-
 </div>
 
 
