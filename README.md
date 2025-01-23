@@ -32,4 +32,9 @@ I am Christan Ray R Sanchez a 2nd Year in Computer Engineering Student currently
 - :zap: In my free time, I play a lot of Online Games like MLBB, Valorant, etc and for now I plan to practice coding daily.
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
+
 
