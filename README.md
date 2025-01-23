@@ -24,7 +24,8 @@
 
 ### :man_technologist: About Me :
 
-I am a 2nd Year Computer Engineering Student currently studying in T.I.P <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqNzNvZXd5d2Rha2loNHRqdGRndWt0YzZreHZvd2E5NWluZXUyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3cwLpdCalQrML78gbe/giphy.gif" width="30">
+I am Christan Ray R Sanchez a 2nd Year in Computer Engineering Student currently studying in T.I.P, My nickname is Tantan and I have dog named "Chocnut"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqNzNvZXd5d2Rha2loNHRqdGRndWt0YzZreHZvd2E5NWluZXUyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3cwLpdCalQrML78gbe/giphy.gif" width="30">
+
 - :telescope: I’m Taking Data Science for my elective.
 - :seedling: I want to Improve in Coding.
 - :zap: In my free time, I play a lot of Online Games like MLBB, Valorant, etc and for now I plan to practice coding daily.
